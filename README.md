@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**dkakaie/dkakaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Addicted to code & حەسەن زیرەک, Nothing more for now.
 
-Here are some ideas to get you started:
+---
+#### 👇 And just in case:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter][10.1]][1]
+[![Telegram][10.6]][2]
+
+![](https://komarev.com/ghpvc/?username=dkakaie&color=green)
+
+<!-- Links -->
+[1]: https://twitter.com/dkakaie/
+[2]: https://t.me/dkakaie/
+
+[10.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white
+[10.6]: https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white
